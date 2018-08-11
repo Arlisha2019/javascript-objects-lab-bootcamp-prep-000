@@ -1,1 +1,1 @@
-var receipes = {};
+var receipes = { key: value };
