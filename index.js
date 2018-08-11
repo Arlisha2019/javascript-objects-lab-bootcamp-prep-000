@@ -1,1 +1,1 @@
-var receipes = { key: value };
+var recipes = { key: value };
